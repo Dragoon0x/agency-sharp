@@ -1,0 +1,20 @@
+{
+  "name": "agency-sharp",
+  "version": "1.0.0",
+  "description": "The AI agency operating system. 1508 skills and 90 commands across agency ops, client management, scoping, discovery, design, engineering, launch, growth, handoffs, multi-agent orchestration, creative playbook, product playbook, engineering playbook, project management, and scaling.",
+  "author": "Dragoon0x \u2014 https://x.com/0xDragoon",
+  "license": "MIT",
+  "plugins": [
+    "ag-ops",
+    "ag-client",
+    "ag-scope",
+    "ag-discover",
+    "ag-design",
+    "ag-build",
+    "ag-launch",
+    "ag-grow",
+    "ag-handoff",
+    "ag-orchestrate",
+    "ag-scale"
+  ]
+}
