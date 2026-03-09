@@ -5,21 +5,53 @@ domain: ag-orchestrate
 version: 1.0.0
 ---
 # Multi-Agent Workflow Design
-**Purpose:** Design workflows where multiple AI agents collaborate on complex projects — the orchestration layer that turns individual specialists into a functioning team.
+**Purpose:** Apply multi-agent workflow design with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Individual agents are commodities. The value is in the system that coordinates them. A frontend agent and a backend agent working independently produce fragmented work. The same agents with a defined handoff protocol, shared context, and quality gates produce integrated work. The orchestration design is the difference.
+## Why This Matters
 
-## The Workflow Architecture
-Define: which agents are involved, what each one produces, what each one needs from others, what order they execute in, and what quality checks happen between them. This is the project's production architecture — the blueprint for how work flows through the system.
+Orchestration is what turns individual contributors into a functioning team. When multiple roles — or multiple AI agents — work on the same project, the coordination system determines whether the outputs integrate cohesively or fragment into inconsistent pieces. Individual talent is a commodity. Coordination is the competitive advantage.
 
-## The Context Protocol
-Agents lose context between sessions. The orchestration system must maintain context: project brief (persistent), decisions made (cumulative), current state (updated), and next steps (clear). This context document is the shared memory of the project — every agent reads it before starting work and updates it when finishing.
+For multi-agent workflow design specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize multi-agent workflow design deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Handoff Format
-Define a standard handoff format: what was done, what decisions were made, what's left for the next agent, what risks or issues were identified. Structured handoffs (not free-text summaries) prevent information loss and ensure the receiving agent has everything needed to continue.
+## The Framework
 
-## The Quality Gates
-Between every handoff, a quality check: does the output meet the specification? Does it maintain consistency with previous work? Are there conflicts with other agents' outputs? Quality gates catch problems before they compound.
+Workflow Architecture: Define which roles are involved, what each produces, what each needs from others, what order they execute in, and what quality checks happen between them. Map dependencies explicitly. Identify what can run in parallel vs what must be sequential.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how multi-agent workflow design is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for multi-agent workflow design in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for multi-agent workflow design: Integration rework rate, context transfer completeness, workflow execution time vs plan, output consistency score, coordination overhead as % of project time. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, multi-agent workflow design is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, multi-agent workflow design must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, multi-agent workflow design needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**No shared context — parallel workers drift in different directions.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Too many roles on small projects — coordination overhead exceeds the value of specialization.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**No integration checkpoints — parallel outputs that don't fit together discovered too late.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means multi-agent workflow design must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles multi-agent workflow design for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing multi-agent workflow design not optional but essential.
+
+## Metrics to Track
+
+Integration rework rate, context transfer completeness, workflow execution time vs plan, output consistency score, coordination overhead as % of project time
 
 ## When to use
-Any project involving more than one agent or role. When agents are producing work that doesn't integrate well. When projects feel fragmented despite individual quality. When scaling agent-powered delivery.
+
+When multi-agent workflow design is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs multi-agent workflow design to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

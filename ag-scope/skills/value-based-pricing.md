@@ -5,18 +5,53 @@ domain: ag-scope
 version: 1.0.0
 ---
 # Value-Based Pricing
-**Purpose:** Price based on the value you deliver to the client, not the hours you spend — because the value of a landing page that generates $500K in pipeline is not determined by how long it took to build.
+**Purpose:** Apply value-based pricing with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Most agencies price by multiplying estimated hours by an hourly rate. This is the least profitable pricing model because it caps revenue at the number of hours available and incentivizes the client to minimize your time rather than maximize your impact. Value-based pricing flips this: the price is a fraction of the value created, regardless of hours spent.
+## Why This Matters
 
-## The Value Conversation
-Before proposing a price, understand the business impact. Questions to ask: What revenue does this project support? What's the cost of not doing it? What's the timeline pressure worth? What would a competitor charge, and what would the cost of switching be? The answers frame the value, and the value frames the price.
+Scoping is where agency profitability is won or lost — not in execution, not in sales, but in the estimation and pricing decisions made before the project starts. Every hour underestimated is an hour the agency works for free. Every scope gap is a dispute waiting to happen. The best agencies treat scoping as a discipline with its own methodology, data, and continuous improvement.
 
-## The Pricing Formula
-For revenue-generating projects: price at 10-20% of the expected first-year revenue impact. A landing page redesign expected to increase conversions by $200K/year is worth $20K-$40K. For cost-saving projects: price at 20-30% of the first-year savings. For strategic projects (rebrand, repositioning): price based on competitive benchmarks and the scale of the company.
+For value-based pricing specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize value-based pricing deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Presentation
-Never present the price first. Present the business case first: "Based on your current conversion rate and traffic, we estimate this redesign will generate an additional $200K in annual revenue." Then the price: "The investment is $35K." Then the ROI: "That's a 5.7x return in year one." The sequence matters.
+## The Framework
+
+Historical Calibration: After every project, compare estimated hours to actual hours by deliverable type. After 10 projects, patterns emerge: 'We underestimate API integration by 40% and overestimate static pages by 20%.' Apply calibration factors to future estimates.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how value-based pricing is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for value-based pricing in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for value-based pricing: Estimate accuracy (target: within 10% of actual), scope creep rate, average project margin, change order frequency, SOW dispute frequency, pricing win rate by tier. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, value-based pricing is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, value-based pricing must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, value-based pricing needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Not tracking estimated vs actual — repeating the same estimation errors on every project.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Estimating from gut instead of data — leading to inconsistent and often optimistic estimates.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Not including explicit exclusions in the SOW — creating ambiguity about what's included.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means value-based pricing must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles value-based pricing for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing value-based pricing not optional but essential.
+
+## Metrics to Track
+
+Estimate accuracy (target: within 10% of actual), scope creep rate, average project margin, change order frequency, SOW dispute frequency, pricing win rate by tier
 
 ## When to use
-When the value to the client is quantifiable. When competing on quality rather than price. When the project has clear business impact. When moving away from hourly billing.
+
+When value-based pricing is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs value-based pricing to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

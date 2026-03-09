@@ -5,10 +5,53 @@ domain: ag-grow
 version: 1.0.0
 ---
 # Page Speed Optimization
-**Purpose:** Apply page speed optimization in the agency context — where multiple clients, parallel projects, and fixed budgets make every operational decision higher-stakes than in-house work.
+**Purpose:** Apply page speed optimization with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-## The Agency Difference
-Post-launch growth, CRO, analytics, iteration, and the ongoing work that turns a launched product into a performing product For page speed optimization specifically, the key is building repeatable systems that work across clients without reinventing them for each engagement.
+## Why This Matters
+
+Post-launch optimization is the highest-ROI service an agency can offer. A 10% improvement in conversion rate on a page generating $1M annually is $100K in additional value — for a fraction of that in agency fees. Growth services create recurring revenue, demonstrable ROI, and long-term client relationships.
+
+For page speed optimization specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize page speed optimization deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
+
+## The Framework
+
+Quick Wins: Headlines (test value proposition framing). CTA copy (action-oriented vs benefit-oriented). CTA placement (above-fold vs after-social-proof). Form length (remove non-essential fields). Social proof placement (proximity to CTA). These five account for the majority of conversion improvements.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how page speed optimization is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for page speed optimization in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for page speed optimization: Conversion rate improvement (target: 10-30% over 6 months), test velocity (2-4 per month), win rate (% of tests that produce positive results, healthy: 30-40%), revenue impact attribution, client retention on growth retainers. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, page speed optimization is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, page speed optimization must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, page speed optimization needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Running tests too short — stopping before statistical significance and making wrong conclusions.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Testing too many things at once — making results uninterpretable.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Optimizing for clicks instead of business outcomes — improving a metric that doesn't correlate with revenue.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means page speed optimization must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles page speed optimization for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing page speed optimization not optional but essential.
+
+## Metrics to Track
+
+Conversion rate improvement (target: 10-30% over 6 months), test velocity (2-4 per month), win rate (% of tests that produce positive results, healthy: 30-40%), revenue impact attribution, client retention on growth retainers
 
 ## When to use
-When this operational or delivery element is the bottleneck. When scaling past what ad-hoc execution can handle.
+
+When page speed optimization is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs page speed optimization to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

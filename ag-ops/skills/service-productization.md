@@ -5,18 +5,53 @@ domain: ag-ops
 version: 1.0.0
 ---
 # Service Productization
-**Purpose:** Turn custom agency services into repeatable, scalable products — because custom work doesn't scale and productized services do.
+**Purpose:** Apply service productization with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Custom agency work is a time-for-money trade. Every engagement is scoped from scratch, delivered differently, and priced by estimate. Productized services flip this: a defined scope, a defined process, a defined deliverable, and a defined price. The client knows exactly what they get. The agency knows exactly what they deliver. Both sides win.
+## Why This Matters
 
-## The Productization Framework
-Take the service you deliver most often. Document every step. Identify the parts that are the same across clients (80%) and the parts that are customized (20%). Package the 80% as the product. Offer the 20% customization as add-ons. Price the package based on value delivered, not hours spent.
+Agency operations is the business infrastructure that makes client delivery possible. Every operational decision — pricing model, team structure, tool selection, financial management — either creates leverage or creates drag. The best agencies operate like machines: predictable inputs produce consistent outputs.
 
-## Examples of Productized Agency Services
-"Brand Sprint" — 5-day brand strategy engagement, fixed price, defined deliverables (positioning, voice, visual direction). "Landing Page in a Week" — fixed-scope landing page with copy, design, and development, delivered in 5 business days. "UX Audit" — comprehensive usability review with prioritized recommendations, fixed deliverable, fixed price. Each one has a clear scope, a clear process, and a clear output.
+For service productization specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize service productization deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Pricing Advantage
-Productized services can be priced on value, not time. A "UX Audit" that identifies $500K in conversion improvements is worth $15K regardless of whether it took 20 hours or 40. When the deliverable is defined and the value is clear, the price conversation shifts from "how many hours" to "what's the ROI."
+## The Framework
+
+The 3x Rule: Every employee must generate 3x their fully loaded cost (salary + benefits + tools + overhead) in billable revenue. At a blended rate of $150/hour and 70% utilization, a designer billing 1,120 hours/year generates $168K — they need to cost the agency less than $56K fully loaded to be profitable.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how service productization is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for service productization in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for service productization: Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, service productization is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, service productization must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, service productization needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Pricing by hours instead of value — hourly billing caps revenue at available hours.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**No financial visibility — not knowing utilization, margins, or runway until it's too late.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Tool sprawl — adopting new tools without retiring old ones until the stack is unmanageable.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means service productization must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles service productization for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing service productization not optional but essential.
+
+## Metrics to Track
+
+Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey)
 
 ## When to use
-When you deliver the same type of work repeatedly. When scoping custom engagements takes too long. When you want to scale revenue without scaling headcount proportionally. When clients want predictability in scope and cost.
+
+When service productization is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs service productization to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

@@ -5,18 +5,53 @@ domain: ag-client
 version: 1.0.0
 ---
 # Client Onboarding
-**Purpose:** Onboard new clients in a way that sets the project up for success — establishing expectations, communication norms, access, and the working relationship that determines whether the project runs smoothly or becomes a nightmare.
+**Purpose:** Apply client onboarding with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-The first two weeks of a client engagement determine the entire trajectory. Clients who are well-onboarded feel confident, communicate openly, and give timely feedback. Clients who are poorly onboarded feel anxious, micromanage, and create bottlenecks. The onboarding experience is the agency's best opportunity to set the tone.
+## Why This Matters
 
-## The Onboarding Checklist
-Week 1: Kickoff meeting (introduce the team, align on goals, review timeline). Access setup (get credentials, brand assets, analytics access, content libraries). Communication norms established (primary channel, response time expectations, meeting cadence). Stakeholder map documented (who approves what, who needs to be informed, who has veto power). Week 2: Discovery begins. First status update sent. Any access gaps resolved.
+Client management is the skill that determines whether an agency has clients or partners. The difference: clients buy projects, partners buy relationships. Partners provide predictable revenue, honest feedback, referrals, and case studies. Building partnerships requires deliberate relationship design — not just good work but good communication, good expectation management, and good problem-solving when things go wrong.
 
-## The Expectations Conversation
-The most important conversation in onboarding: "Here's what we need from you to deliver great work on time." Be explicit about: approval turnaround times (48 hours maximum), feedback format (consolidated, not drip-fed), single point of contact (not design-by-committee), and scope management (how change requests are handled).
+For client onboarding specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize client onboarding deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Red Flag Detection
-Onboarding is also the early warning system. Red flags: client can't name a single point of contact. Multiple stakeholders with conflicting visions. No access to brand assets after one week. Feedback by committee with no decision-maker. Scope additions before the project starts. Address these in week 1 or they'll compound for the entire engagement.
+## The Framework
+
+The Client Lifecycle: Prospect → Qualified Lead → Proposal → Negotiation → Signed → Onboarding → Active Delivery → Project Completion → Retainer/Renewal → Advocacy. Each stage has specific communication cadences, deliverables, and success metrics.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how client onboarding is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for client onboarding in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for client onboarding: Client retention rate (target: 80%+ year-over-year), client lifetime value, average project size, proposal win rate (target: 30-40%), NPS (target: 50+), referral rate (target: 30% of new business), revenue per client, scope creep rate (% of projects that exceed original scope). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, client onboarding is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, client onboarding must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, client onboarding needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Not qualifying leads — spending hours on proposals for clients who can't afford the work.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Under-communicating — silence breeds client anxiety, which breeds micromanagement.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Absorbing scope creep silently — training clients to expect free additions.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means client onboarding must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles client onboarding for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing client onboarding not optional but essential.
+
+## Metrics to Track
+
+Client retention rate (target: 80%+ year-over-year), client lifetime value, average project size, proposal win rate (target: 30-40%), NPS (target: 50+), referral rate (target: 30% of new business), revenue per client, scope creep rate (% of projects that exceed original scope)
 
 ## When to use
-Every new client engagement. When standardizing the onboarding process. When projects consistently have rocky starts.
+
+When client onboarding is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs client onboarding to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

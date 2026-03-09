@@ -5,21 +5,53 @@ domain: ag-design
 version: 1.0.0
 ---
 # Agency Design Process
-**Purpose:** Run a design process that produces great work within agency constraints — fixed budgets, fixed timelines, client approvals, and the reality that revision rounds are limited.
+**Purpose:** Apply agency design process with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Agency design is not product design. You don't have the luxury of iterating indefinitely. You don't own the product. You have a fixed number of revision rounds, a client who needs to approve everything, and a timeline that doesn't move. The process must account for all of this while still producing excellent work.
+## Why This Matters
 
-## The Process
-Phase 1 — Direction (20% of timeline): Moodboards, style explorations, and strategic options presented to the client. Goal: align on the visual direction before investing in execution. Present 2-3 directions, each supported by rationale tied to the strategy. Get formal approval on direction before proceeding.
+Agency design is not product design. The constraints are different: fixed budgets, fixed timelines, limited revision rounds, client approvals at every stage, and the need to produce work that's beautiful AND effective. The process must account for all of this while still producing excellent work.
 
-Phase 2 — Execution (50% of timeline): Full design development of the approved direction. Key pages/screens first, then secondary pages. Internal review before client presentation. Present work in context (not isolated screens — show the design in a browser frame, at real resolution, with real content).
+For agency design process specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize agency design process deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-Phase 3 — Refinement (20% of timeline): Client feedback incorporation (this is where revision rounds are consumed). Polish, responsive adaptations, and final details.
+## The Framework
 
-Phase 4 — Handoff (10% of timeline): Developer handoff with specifications, assets, and documentation.
+The Revision Economy: Include 2 rounds in the scope. Round 1: major feedback (layout, direction, content structure). Round 2: minor feedback (copy tweaks, color adjustments, spacing). Additional rounds billed per change order. Make this explicit in the SOW.
 
-## The Revision Economy
-Include 2 rounds of revisions in the scope. Round 1: major feedback — layout changes, content restructuring, direction adjustments. Round 2: minor feedback — copy tweaks, color adjustments, spacing refinements. Additional rounds are charged per the change order process. Making this explicit in the SOW prevents unlimited revision cycles.
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how agency design process is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for agency design process in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for agency design process: Design approval rate (% approved in round 1), revision count per project, design-to-dev discrepancy rate, client design satisfaction score, accessibility compliance rate. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, agency design process is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, agency design process must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, agency design process needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Presenting design without rationale — letting the conversation become subjective.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Not designing all states — happy path designs that fall apart for edge cases.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Skipping design QA — shipping the Figma without checking the implementation.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means agency design process must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles agency design process for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing agency design process not optional but essential.
+
+## Metrics to Track
+
+Design approval rate (% approved in round 1), revision count per project, design-to-dev discrepancy rate, client design satisfaction score, accessibility compliance rate
 
 ## When to use
-Every design project. When establishing the agency's standard design process. When design projects consistently go over budget or timeline.
+
+When agency design process is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs agency design process to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

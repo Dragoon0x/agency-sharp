@@ -5,18 +5,53 @@ domain: ag-grow
 version: 1.0.0
 ---
 # Conversion Rate Optimization
-**Purpose:** Improve conversion rates through systematic testing — not guessing what might work but measuring what actually does, one change at a time.
+**Purpose:** Apply conversion rate optimization with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-CRO is the highest-ROI post-launch investment an agency can offer. A 10% improvement in conversion rate on a page that generates $1M in annual revenue is $100K in additional value — for a fraction of that cost in agency fees. The skill is knowing where to look, what to test, and how to interpret results.
+## Why This Matters
 
-## The CRO Process
-Step 1: Data audit — where are users dropping off? (funnel analysis, heatmaps, session recordings). Step 2: Hypothesis generation — why are they dropping off? (user research, heuristic analysis, analytics). Step 3: Prioritization — which hypotheses have the highest potential impact and easiest implementation? Step 4: Test design — A/B or multivariate test with clear success metrics. Step 5: Execution — run the test until statistical significance. Step 6: Analysis — what happened and why. Step 7: Implementation — ship the winner and start the next test.
+Post-launch optimization is the highest-ROI service an agency can offer. A 10% improvement in conversion rate on a page generating $1M annually is $100K in additional value — for a fraction of that in agency fees. Growth services create recurring revenue, demonstrable ROI, and long-term client relationships.
 
-## The Quick Wins
-Headlines (test value proposition framing). CTA copy (test action-oriented vs benefit-oriented). CTA placement (test above-fold vs after-social-proof). Form length (test removing non-essential fields). Social proof placement (test proximity to CTA). These five elements account for the majority of conversion improvements on most pages.
+For conversion rate optimization specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize conversion rate optimization deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Agency CRO Model
-Offer CRO as a monthly retainer: ongoing testing, analysis, and optimization. Typical structure: 2-4 tests per month, monthly reporting with insights and recommendations, and quarterly strategy reviews. Price on value: if the retainer costs $5K/month and produces $50K in additional annual revenue, the ROI is 10x.
+## The Framework
+
+The Growth Retainer Model: 2-4 tests per month. Monthly reporting with insights and recommendations. Quarterly strategy reviews. Price: $3K-$10K/month depending on traffic volume and test complexity. ROI should be demonstrable within 2-3 months.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how conversion rate optimization is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for conversion rate optimization in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for conversion rate optimization: Conversion rate improvement (target: 10-30% over 6 months), test velocity (2-4 per month), win rate (% of tests that produce positive results, healthy: 30-40%), revenue impact attribution, client retention on growth retainers. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, conversion rate optimization is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, conversion rate optimization must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, conversion rate optimization needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Testing too many things at once — making results uninterpretable.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Optimizing for clicks instead of business outcomes — improving a metric that doesn't correlate with revenue.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Optimizing without data — guessing instead of measuring where users struggle.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means conversion rate optimization must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles conversion rate optimization for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing conversion rate optimization not optional but essential.
+
+## Metrics to Track
+
+Conversion rate improvement (target: 10-30% over 6 months), test velocity (2-4 per month), win rate (% of tests that produce positive results, healthy: 30-40%), revenue impact attribution, client retention on growth retainers
 
 ## When to use
-Post-launch on any conversion-critical page. When conversion rates are below industry benchmarks. When the client has traffic but isn't converting. As an ongoing retainer service.
+
+When conversion rate optimization is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs conversion rate optimization to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

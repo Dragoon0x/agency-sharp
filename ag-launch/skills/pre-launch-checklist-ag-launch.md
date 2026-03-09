@@ -5,22 +5,53 @@ domain: ag-launch
 version: 1.0.0
 ---
 # Pre-Launch Checklist
-**Purpose:** Run a comprehensive pre-launch check that catches every category of issue — because the things that break in production are almost never the things you tested during development.
+**Purpose:** Apply pre-launch checklist with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-The pre-launch checklist is the agency's last line of defense. It's the systematic verification that everything works, across every browser, at every breakpoint, with real content, under real conditions. A 2-hour checklist prevents weeks of post-launch firefighting.
+## Why This Matters
 
-## The Checklist Categories
-**Content:** All placeholder content replaced with final copy. No lorem ipsum. All images final and optimized. Legal pages present (privacy policy, terms). Contact information correct. Copyright year current.
+Launch is a coordinated event, not just a deployment. It involves the client, the users, the team, DNS, monitoring, analytics, and the communication plan. A flawed launch undermines months of work. A clean launch builds trust that generates referrals.
 
-**Functionality:** All forms submit and deliver to the correct destination. Payment processing tested with real transactions (then refunded). Search returns relevant results. Authentication works (login, signup, reset password, logout). All links work (no 404s — run a crawler).
+For pre-launch checklist specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize pre-launch checklist deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-**Performance:** Lighthouse score 90+ on key pages. Images lazy-loaded below the fold. Fonts loaded with font-display: swap. No render-blocking resources. Time to Interactive under 3 seconds on 3G.
+## The Framework
 
-**SEO:** Page titles and meta descriptions on every page. OG images for social sharing. Canonical URLs set. XML sitemap generated and submitted. Robots.txt configured. Structured data validated.
+The Launch Timeline: T-5 days: final QA complete, staging approved. T-3 days: DNS prepared, monitoring configured, rollback documented. T-1 day: final staging review, all stakeholders confirmed. T-0: deploy, verify critical paths, monitor errors, send go-live confirmation. T+1: monitor analytics, address issues, send post-launch report.
 
-**Accessibility:** Keyboard navigation works on all interactive elements. Screen reader tested on key flows. Color contrast passes WCAG AA. Alt text on all images. Form labels associated with inputs.
+## How to Apply This
 
-**Infrastructure:** SSL certificate active and auto-renewing. Redirects from old URLs configured. 404 page designed. Analytics tracking verified. Error monitoring active. Backups configured.
+**Step 1: Assess the current state.** Before changing anything, document how pre-launch checklist is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for pre-launch checklist in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for pre-launch checklist: Launch day issues (target: 0 critical), time to detect post-launch issues, rollback frequency, client satisfaction with launch process, post-launch bug count. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, pre-launch checklist is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, pre-launch checklist must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, pre-launch checklist needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**No rollback plan — having no plan for what to do if the launch goes wrong.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Not monitoring post-launch — assuming everything works because the deployment succeeded.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Not communicating launch status to the client in real-time.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means pre-launch checklist must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles pre-launch checklist for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing pre-launch checklist not optional but essential.
+
+## Metrics to Track
+
+Launch day issues (target: 0 critical), time to detect post-launch issues, rollback frequency, client satisfaction with launch process, post-launch bug count
 
 ## When to use
-Every launch. No exceptions. The checklist should be a living document that grows with each post-launch issue discovered.
+
+When pre-launch checklist is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs pre-launch checklist to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

@@ -5,10 +5,53 @@ domain: ag-design
 version: 1.0.0
 ---
 # Accessibility Design Delivery
-**Purpose:** Apply accessibility design delivery in the agency context — where multiple clients, parallel projects, and fixed budgets make every operational decision higher-stakes than in-house work.
+**Purpose:** Apply accessibility design delivery with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-## The Agency Difference
-Design delivery for agency work — brand, web, product, and campaign design For accessibility design delivery specifically, the key is building repeatable systems that work across clients without reinventing them for each engagement.
+## Why This Matters
+
+Agency design is not product design. The constraints are different: fixed budgets, fixed timelines, limited revision rounds, client approvals at every stage, and the need to produce work that's beautiful AND effective. The process must account for all of this while still producing excellent work.
+
+For accessibility design delivery specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize accessibility design delivery deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
+
+## The Framework
+
+Content-First Design: Structure and content must be defined before design begins. Designing empty layouts and filling in content later produces websites where design and content fight each other. Get the content (or realistic content) before opening Figma.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how accessibility design delivery is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for accessibility design delivery in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for accessibility design delivery: Design approval rate (% approved in round 1), revision count per project, design-to-dev discrepancy rate, client design satisfaction score, accessibility compliance rate. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, accessibility design delivery is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, accessibility design delivery must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, accessibility design delivery needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Skipping design QA — shipping the Figma without checking the implementation.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Designing without content — creating beautiful layouts that break with real copy.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Presenting design without rationale — letting the conversation become subjective.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means accessibility design delivery must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles accessibility design delivery for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing accessibility design delivery not optional but essential.
+
+## Metrics to Track
+
+Design approval rate (% approved in round 1), revision count per project, design-to-dev discrepancy rate, client design satisfaction score, accessibility compliance rate
 
 ## When to use
-When this operational or delivery element is the bottleneck. When scaling past what ad-hoc execution can handle.
+
+When accessibility design delivery is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs accessibility design delivery to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

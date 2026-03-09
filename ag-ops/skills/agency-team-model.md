@@ -5,18 +5,53 @@ domain: ag-ops
 version: 1.0.0
 ---
 # Agency Team Model
-**Purpose:** Structure the team for the agency's current size and ambition — because the org structure that works at 5 people breaks at 20, and the one that works at 20 breaks at 50.
+**Purpose:** Apply agency team model with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Agency team structure is uniquely challenging because the work is project-based, client-facing, and cross-functional. Every project needs a different mix of skills. Utilization must stay high. Client relationships must be maintained. And the team must be able to flex between projects without losing quality.
+## Why This Matters
 
-## The Pod Model
-The most effective agency structure at 10-30 people. Each pod is a self-contained team: a strategist/PM, a designer, and a developer (minimum). Pods own client relationships end-to-end. This model reduces handoff friction, builds deep client knowledge within the pod, and creates clear accountability.
+Agency operations is the business infrastructure that makes client delivery possible. Every operational decision — pricing model, team structure, tool selection, financial management — either creates leverage or creates drag. The best agencies operate like machines: predictable inputs produce consistent outputs.
 
-## The Matrix Model
-For larger agencies (30+). People belong to a discipline (design, engineering, strategy) and are assigned to projects as needed. This model maximizes utilization flexibility but creates coordination overhead and can dilute client relationships. The matrix needs strong project management to work.
+For agency team model specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize agency team model deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The AI-Augmented Model
-The emerging model. Smaller human teams augmented by AI agents for production work — content generation, code scaffolding, design variations, QA, reporting. Human roles shift toward strategy, client relationships, quality judgment, and creative direction. The AI handles volume; humans handle judgment.
+## The Framework
+
+The 3x Rule: Every employee must generate 3x their fully loaded cost (salary + benefits + tools + overhead) in billable revenue. At a blended rate of $150/hour and 70% utilization, a designer billing 1,120 hours/year generates $168K — they need to cost the agency less than $56K fully loaded to be profitable.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how agency team model is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for agency team model in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for agency team model: Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, agency team model is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, agency team model must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, agency team model needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Pricing by hours instead of value — hourly billing caps revenue at available hours.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**No financial visibility — not knowing utilization, margins, or runway until it's too late.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Tool sprawl — adopting new tools without retiring old ones until the stack is unmanageable.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means agency team model must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles agency team model for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing agency team model not optional but essential.
+
+## Metrics to Track
+
+Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey)
 
 ## When to use
-When founding the agency. When the current structure is causing friction. When scaling past the team size where the current model works. When integrating AI into the delivery model.
+
+When agency team model is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs agency team model to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

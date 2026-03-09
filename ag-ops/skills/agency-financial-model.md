@@ -5,18 +5,53 @@ domain: ag-ops
 version: 1.0.0
 ---
 # Agency Financial Model
-**Purpose:** Build a financial model that keeps the agency profitable — understanding utilization, margins, and the math that determines whether the agency makes money.
+**Purpose:** Apply agency financial model with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Agency profitability comes down to one equation: (billable rate × utilization rate × headcount) - (salaries + overhead + tools + everything else). Most agencies that fail aren't bad at their craft — they're bad at the math. They price too low, hire too fast, or let utilization drop below the threshold where the business works.
+## Why This Matters
 
-## The Key Metrics
-Utilization rate: the percentage of available hours that are billable. Target: 65-75% for creative roles, 75-85% for production roles. Below 60% is a crisis. Above 85% means burnout is coming. Effective rate: actual revenue per hour worked (not the rate on the proposal — the rate after scope creep, revisions, and unbilled time). Target: 2.5-3x the employee's hourly cost. Gross margin: revenue minus direct project costs. Target: 50-60% for healthy agencies.
+Agency operations is the business infrastructure that makes client delivery possible. Every operational decision — pricing model, team structure, tool selection, financial management — either creates leverage or creates drag. The best agencies operate like machines: predictable inputs produce consistent outputs.
 
-## The Headcount Decision
-The most expensive decision an agency makes. Each hire needs to generate 2.5-3x their fully loaded cost (salary + benefits + tools + overhead allocation). Before hiring, verify: is there enough pipeline to keep this person utilized at 70%+ for the next 6 months? If not, use contractors until the pipeline is proven.
+For agency financial model specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize agency financial model deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Cash Flow Reality
-Agencies have a cash flow problem by design: you pay salaries every 2 weeks but collect from clients every 30-60 days. Maintain 2-3 months of operating expenses in reserve. Invoice promptly. Collect aggressively. Negotiate deposits (30-50% upfront) on new projects.
+## The Framework
+
+Cash Flow Buffer: Agencies should maintain 2-3 months of operating expenses in reserve. Revenue arrives 30-60 days after invoicing. Salaries are due every 2 weeks. This mismatch kills agencies that don't plan for it.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how agency financial model is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for agency financial model in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for agency financial model: Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, agency financial model is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, agency financial model must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, agency financial model needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**No financial visibility — not knowing utilization, margins, or runway until it's too late.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Tool sprawl — adopting new tools without retiring old ones until the stack is unmanageable.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Hiring ahead of pipeline — adding headcount before the revenue to sustain it is proven.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means agency financial model must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles agency financial model for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing agency financial model not optional but essential.
+
+## Metrics to Track
+
+Utilization rate (target: 70%), effective hourly rate (target: 2.5-3x employee cost), gross margin (target: 50-60%), client concentration (no client >25% of revenue), pipeline coverage (3x quarterly revenue target), employee satisfaction (quarterly pulse survey)
 
 ## When to use
-Monthly financial review. Before hiring. When pricing new services. When margins are shrinking. When cash flow feels tight.
+
+When agency financial model is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs agency financial model to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

@@ -5,18 +5,53 @@ domain: ag-handoff
 version: 1.0.0
 ---
 # Design-to-Development Handoff
-**Purpose:** Hand off designs to development with enough specification that the implementation matches the design — because every gap in the handoff becomes a discrepancy in the browser.
+**Purpose:** Apply design-to-development handoff with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-The design-to-development handoff is the most frequent source of quality issues in agency work. Developers can't read designers' minds. If the hover state isn't specified, it won't be implemented. If the mobile layout isn't designed, the developer will improvise. If the spacing isn't defined, it'll be eyeballed.
+## Why This Matters
 
-## The Handoff Contents
-Design files: organized Figma file with final screens, component library, and responsive variants. Specifications: spacing values, color tokens, typography scale, border radii, shadow values — everything needed to implement without measuring. Interaction specs: hover states, click states, transitions, animations (duration, easing, trigger). Content: final copy in a separate document (not just in the Figma file where it's hard to extract). Assets: exportable images, icons (SVG), fonts (with license verification).
+Every quality failure in agency work traces back to a handoff. Strategy-to-design handoff that loses insight. Design-to-dev handoff that loses specifications. Dev-to-QA handoff that loses context. Handoff design is defect prevention — the structured transitions that ensure nothing falls through cracks between phases and roles.
 
-## The Handoff Process
-Handoff meeting: designer walks the developer through the design, explaining rationale for key decisions and calling out interactions that aren't visible in static screens. Q&A session: developer asks about edge cases, empty states, error states, loading states, and the scenarios the designer may not have explicitly designed. Annotation: designer annotates the Figma file with developer notes for anything that isn't self-evident.
+For design-to-development handoff specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize design-to-development handoff deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Quality Checkpoint
-After the first development sprint, compare the implementation to the design. The designer should review the staging environment (not screenshots — the actual browser) and log discrepancies. This catch-up loop should happen weekly during development, not just at the end.
+## The Framework
+
+Quality Gate Design: Between every phase, a quality check with specific criteria. Discovery gate: Are the research questions answered? Are the recommendations actionable? Design gate: Does the design match the strategy? Are all states designed? Does it pass accessibility checks? Dev gate: Does it match the design? Does it pass performance targets? Is it documented?
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how design-to-development handoff is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for design-to-development handoff in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for design-to-development handoff: Handoff completeness rate, rework caused by handoff gaps, time from handoff to productive start on next phase, quality gate pass rate on first attempt. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, design-to-development handoff is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, design-to-development handoff must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, design-to-development handoff needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Skipping the handoff meeting — written docs are necessary but not sufficient.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**No quality gate between phases — work advances before it's ready.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Verbal handoffs — information lost as soon as the meeting ends.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means design-to-development handoff must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles design-to-development handoff for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing design-to-development handoff not optional but essential.
+
+## Metrics to Track
+
+Handoff completeness rate, rework caused by handoff gaps, time from handoff to productive start on next phase, quality gate pass rate on first attempt
 
 ## When to use
-Every project with a design and development phase. When development frequently doesn't match the design. When handoff meetings are being skipped.
+
+When design-to-development handoff is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs design-to-development handoff to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

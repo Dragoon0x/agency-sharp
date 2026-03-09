@@ -5,18 +5,53 @@ domain: ag-discover
 version: 1.0.0
 ---
 # Discovery Phase Execution
-**Purpose:** Run a paid discovery phase that reduces project risk, aligns stakeholders, and produces a strategy that makes the execution phase faster and better.
+**Purpose:** Apply discovery phase execution with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-Discovery is the phase between "the client has a problem" and "we know how to solve it." Skipping discovery means guessing — about user needs, technical constraints, business context, and stakeholder expectations. The cost of guessing wrong is 10-100x the cost of the discovery phase.
+## Why This Matters
 
-## The Discovery Structure
-Week 1: Stakeholder interviews (understand goals, constraints, politics). User research (interviews, analytics review, competitive analysis). Technical audit (what exists, what's possible, what's risky). Week 2: Synthesis (patterns, insights, opportunities). Strategy development (recommendations with rationale). Presentation (findings, strategy, and recommended next steps with timeline and budget).
+Discovery is the investment that makes everything downstream faster and better. A $10K discovery phase prevents a $100K project from solving the wrong problem. The agencies that skip discovery to 'save time' spend that time later — in revisions, misalignment, and rework. Discovery de-risks the project for both the agency and the client.
 
-## The Deliverables
-Discovery report: research findings, synthesized insights, strategic recommendations, and a scoped proposal for the execution phase. The report should be actionable — not a 50-page document that no one reads but a 10-page document that drives decisions. Include: what we learned, what it means, what we recommend, and why.
+For discovery phase execution specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize discovery phase execution deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
 
-## The Pricing
-Discovery should be priced as a standalone engagement: $5K-$25K depending on complexity, paid upfront. It's a separate SOW from the execution phase. This protects both parties: the client gets a strategy they can take to any agency. The agency doesn't invest weeks of free scoping on a deal that might not close.
+## The Framework
+
+Workshop Facilitation Structure: Opening (15 min, context + rules) → Divergent exercise (45 min, generate broadly) → Convergent exercise (45 min, narrow + prioritize) → Break (15 min) → Definition exercise (45 min, articulate the direction) → Closing (15 min, decisions + next steps). Total: 3 hours. Every minute is planned.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how discovery phase execution is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for discovery phase execution in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for discovery phase execution: Discovery conversion rate (% that convert to execution phase, target: 70-80%), client satisfaction with discovery process, time from discovery to execution kickoff, strategy accuracy (did the execution validate the discovery conclusions). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, discovery phase execution is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, discovery phase execution must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, discovery phase execution needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Not presenting findings in a way that drives action — a 50-page report nobody reads.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Skipping discovery on 'simple' projects — projects that seem simple are usually projects where the complexity hasn't been discovered yet.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Treating discovery as free scoping — giving away strategic work to win the execution project.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means discovery phase execution must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles discovery phase execution for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing discovery phase execution not optional but essential.
+
+## Metrics to Track
+
+Discovery conversion rate (% that convert to execution phase, target: 70-80%), client satisfaction with discovery process, time from discovery to execution kickoff, strategy accuracy (did the execution validate the discovery conclusions)
 
 ## When to use
-Every project over $25K. Projects with ambiguous scope. Projects with multiple stakeholders who haven't aligned. Projects involving technology decisions. New client relationships where trust hasn't been established.
+
+When discovery phase execution is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs discovery phase execution to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

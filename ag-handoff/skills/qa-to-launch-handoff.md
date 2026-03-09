@@ -5,13 +5,53 @@ domain: ag-handoff
 version: 1.0.0
 ---
 # QA-to-Launch Handoff
-**Purpose:** Transition from QA to launch readiness — confirming all issues are resolved and all launch criteria are met.
+**Purpose:** Apply qa-to-launch handoff with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-## The Practice
-Every quality failure in agency work happens at a handoff — where one phase ends and another begins, where one role passes work to another. Handoff design is defect prevention.
+## Why This Matters
 
-## The Agency Context
-Agency work has constraints that product teams don't — multiple clients, parallel projects, fixed budgets, external deadlines, and the constant tension between quality and speed. QA-to-Launch Handoff must account for these constraints to be practically useful.
+Every quality failure in agency work traces back to a handoff. Strategy-to-design handoff that loses insight. Design-to-dev handoff that loses specifications. Dev-to-QA handoff that loses context. Handoff design is defect prevention — the structured transitions that ensure nothing falls through cracks between phases and roles.
+
+For qa-to-launch handoff specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize qa-to-launch handoff deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
+
+## The Framework
+
+Design-to-Dev Handoff: Organized Figma file with final screens and component library. Specifications: spacing values, color tokens, typography scale, all interactive states (hover, active, focus, disabled, loading, error, empty). Interaction specs with timing and easing. Final copy. Exportable assets. Plus a walk-through meeting.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how qa-to-launch handoff is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for qa-to-launch handoff in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for qa-to-launch handoff: Handoff completeness rate, rework caused by handoff gaps, time from handoff to productive start on next phase, quality gate pass rate on first attempt. Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, qa-to-launch handoff is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, qa-to-launch handoff must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, qa-to-launch handoff needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Handoff documents that nobody reads — too long, too generic, not actionable.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Skipping the handoff meeting — written docs are necessary but not sufficient.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**No quality gate between phases — work advances before it's ready.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means qa-to-launch handoff must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles qa-to-launch handoff for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing qa-to-launch handoff not optional but essential.
+
+## Metrics to Track
+
+Handoff completeness rate, rework caused by handoff gaps, time from handoff to productive start on next phase, quality gate pass rate on first attempt
 
 ## When to use
-When this is the active constraint in client delivery or agency operations.
+
+When qa-to-launch handoff is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs qa-to-launch handoff to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+

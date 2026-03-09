@@ -5,13 +5,53 @@ domain: ag-discover
 version: 1.0.0
 ---
 # Persona Creation for Agency Projects
-**Purpose:** Build useful personas within agency timelines — fast, research-based, and specific enough to direct design decisions.
+**Purpose:** Apply persona creation for agency projects with the rigor and specificity that profitable agency delivery demands — where client expectations, fixed budgets, and quality standards leave no room for guesswork.
 
-## The Practice
-Discovery is the phase that most agencies skip and most projects suffer for. Understanding the problem before solving it is the highest-leverage investment in any engagement.
+## Why This Matters
 
-## The Agency Context
-Agency work has constraints that product teams don't — multiple clients, parallel projects, fixed budgets, external deadlines, and the constant tension between quality and speed. Persona Creation for Agency Projects must account for these constraints to be practically useful.
+Discovery is the investment that makes everything downstream faster and better. A $10K discovery phase prevents a $100K project from solving the wrong problem. The agencies that skip discovery to 'save time' spend that time later — in revisions, misalignment, and rework. Discovery de-risks the project for both the agency and the client.
+
+For persona creation for agency projects specifically, the gap between doing this well and doing it poorly is the gap between a profitable project and a money-losing one. Agencies that systematize persona creation for agency projects deliver more consistently, scope more accurately, and retain clients longer than agencies that handle it ad-hoc.
+
+## The Framework
+
+Workshop Facilitation Structure: Opening (15 min, context + rules) → Divergent exercise (45 min, generate broadly) → Convergent exercise (45 min, narrow + prioritize) → Break (15 min) → Definition exercise (45 min, articulate the direction) → Closing (15 min, decisions + next steps). Total: 3 hours. Every minute is planned.
+
+## How to Apply This
+
+**Step 1: Assess the current state.** Before changing anything, document how persona creation for agency projects is currently handled. What works? What breaks? Where does the team spend unnecessary time? The assessment reveals whether the problem is process, people, tools, or all three.
+
+**Step 2: Define the standard.** What does good look like for persona creation for agency projects in this agency, for this project type, at this scale? The standard should be specific enough that two team members would independently produce similar outputs. If the standard is vague, the results will be inconsistent.
+
+**Step 3: Build the system.** Create the templates, checklists, documentation, and workflows that make the standard repeatable. The system should be lightweight enough to actually use and comprehensive enough to catch the common failure modes.
+
+**Step 4: Measure and improve.** Track whether the system is working. The key metrics for persona creation for agency projects: Discovery conversion rate (% that convert to execution phase, target: 70-80%), client satisfaction with discovery process, time from discovery to execution kickoff, strategy accuracy (did the execution validate the discovery conclusions). Review quarterly. Adjust based on what the data shows, not what feels right.
+
+## Real-World Use Cases
+
+**Early-stage agency (1-5 people):** At this scale, persona creation for agency projects is often handled by the founder directly. The priority is documenting what works before the team grows. Create a simple version — a one-page checklist or template — that captures the founder's judgment so it can be delegated.
+
+**Growth-stage agency (5-20 people):** At this scale, persona creation for agency projects must be delegated and systematized. The founder can't be in every loop. Build the standard, train the team, and create quality checks that catch problems without creating bottlenecks. The goal is consistent output without the founder's involvement in every instance.
+
+**Scaled agency (20+ people):** At this scale, persona creation for agency projects needs governance — who owns the standard, how it's updated, how new team members are trained, and how exceptions are handled. The system should be self-maintaining: documented enough that a new PM or lead can manage it without institutional knowledge from the founders.
+
+## Common Mistakes
+
+**Not presenting findings in a way that drives action — a 50-page report nobody reads.** This is the most common failure mode and the one that costs the most in rework, client friction, and margin erosion.
+
+**Skipping discovery on 'simple' projects — projects that seem simple are usually projects where the complexity hasn't been discovered yet.** This usually happens when the agency is moving too fast to follow the process — which is exactly when the process matters most.
+
+**Treating discovery as free scoping — giving away strategic work to win the execution project.** This compounds over time. Each instance is small. The cumulative effect is significant.
+
+## The Agency-Specific Dimension
+
+Agency work has constraints that product teams and freelancers don't face. Multiple clients means persona creation for agency projects must work across different brands, industries, and stakeholder dynamics. Parallel projects mean the team handles persona creation for agency projects for 3-5 clients simultaneously. Fixed budgets mean there's no room for the process to be inefficient. External deadlines mean the timeline is real. These constraints make systematizing persona creation for agency projects not optional but essential.
+
+## Metrics to Track
+
+Discovery conversion rate (% that convert to execution phase, target: 70-80%), client satisfaction with discovery process, time from discovery to execution kickoff, strategy accuracy (did the execution validate the discovery conclusions)
 
 ## When to use
-When this is the active constraint in client delivery or agency operations.
+
+When persona creation for agency projects is the current bottleneck in delivery or operations. When quality in this area is inconsistent across projects or team members. When the agency is scaling and needs persona creation for agency projects to work without the founder in the loop. When post-project retrospectives identify this as a recurring issue.
+
